@@ -9,20 +9,26 @@
 }
 
 .two {
-	background-color: red;
+	background-image: url("asanoha-400px.png");
 	display: inline-block;
 	margin-top: 111px;
 	margin-right: -188px;
 	margin-left: 147px;
+	border-top-style: solid;
+	border-color: #dddddd;
 }
 .three {
+	border-color: #dddddd;
 	background-color: white;
-	position: relative;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	margin-left: 43px;
-	margin-right: 270px;
-	padding: 50px;
+	margin-top: 36px;
+	margin-bottom: 52px;
+	margin-left: 41px;
+	margin-right: 282px;
+	padding: 10px;
+	padding-top: 9px;
+	padding-right: 30px;
+	padding-left: 0px;
+	padding-bottom: 1px;
 }
 .header {
     color: white;
@@ -31,10 +37,14 @@
     position: absolute;
     margin-left: 186px;
     padding: 20px;
+    margin-top: 34px;
 }
 .picture {
-	margin-left: 0px;
+	margin-left: 20px;
 	float: left;
+	height: 156px;
+	width: 203px;
+	margin-bottom: 10px;
 }
 .description {
 	margin-right: -22px;
@@ -47,8 +57,8 @@
 }
 .links {
 	float: right;
-	margin-left: 0px;
-
+	margin-left: -124px;
+	margin-top: 21px;
 }
 #about, #portfolio, #contact {
 	float: left;
@@ -66,10 +76,55 @@
 	margin-top: 40px;
 }
 .aboot {
-	margin-left: 100px;
-	text-decoration: none;
-	color: black;
+	margin-bottom: -10px;
+	margin-top: 6px;
+	margin-left: 20px;
+	border-bottom-style: groove;
+	color: #68d6b3;
 }
 a {
 	text-decoration: none;
+}
+img {
+	margin-top: 10px;
+}
+footer {
+	text-align: center;
+	margin-left: 147px;
+	margin-top: 0px;
+	background-color: #666;
+	position: absolute;
+	padding-left: 303px;
+	padding-right: 304px;
+	border-top-style: solid;
+	border-top-color: #68d6b3;
+	margin-top: -62px;
+	color: #cfcfcf;
+}
+.connect {
+	float: right;
+	background-color: white;
+	margin-top: -391px;
+	margin-right: -230px;
+	padding: 1px;
+	padding-top: 1px; 
+	padding-right:8px;
+	padding-left:8px;
+	padding-bottom:1px;
+}
+h5{
+	color: #68d6b3;
+	border-bottom-style: groove;
+	font-size: 18px;
+	margin-top: 8px;
+	margin-bottom: 23px;
+}
+#github, #linked{
+	float: left;
+}
+#linked {
+	margin-top: -19px;
+}
+#github {
+	margin-top: -19px;
 }

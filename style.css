@@ -45,6 +45,7 @@
 	height: 156px;
 	width: 203px;
 	margin-bottom: 10px;
+	margin-top: 10px;
 }
 .description {
 	margin-right: -22px;
@@ -52,8 +53,10 @@
 	margin-top: 35px;
 	width: 500px;
 	height: 50px;
-	font-size: 18px;
+	font-size: 16px;
 	margin-bottom: 209px;
+	color: #777777;
+
 }
 .links {
 	float: right;
@@ -77,10 +80,11 @@
 }
 .aboot {
 	margin-bottom: -10px;
-	margin-top: 6px;
+	margin-top: -2px;
 	margin-left: 20px;
 	border-bottom-style: groove;
 	color: #68d6b3;
+	line-height: 2.0;
 }
 a {
 	text-decoration: none;
@@ -118,6 +122,7 @@ h5{
 	font-size: 18px;
 	margin-top: 8px;
 	margin-bottom: 23px;
+	line-height: 1.8;
 }
 #github, #linked{
 	float: left;

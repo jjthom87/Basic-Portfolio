@@ -10,15 +10,18 @@
 
 .two {
 	background-image: url("asanoha-400px.png");
+	height: 506px;
+	width: 812px;
 	display: inline-block;
 	margin-top: 111px;
 	margin-right: -188px;
 	margin-left: 147px;
 	border-top-style: solid;
-	border-color: #dddddd;
+	border-color: #f7f0e3;
 }
 .three {
-	border-color: #dddddd;
+	border-style: groove;
+	border-color: #f7f0e3;
 	background-color: white;
 	margin-top: 36px;
 	margin-bottom: 52px;
@@ -98,23 +101,27 @@ footer {
 	margin-top: 0px;
 	background-color: #666;
 	position: absolute;
-	padding-left: 303px;
-	padding-right: 304px;
+	padding-left: 340px;
+	padding-right: 340px;
+	padding-top: 25px;
 	border-top-style: solid;
 	border-top-color: #68d6b3;
-	margin-top: -62px;
+	margin-top: -69px;
 	color: #cfcfcf;
+	font-size: 10px;
 }
 .connect {
 	float: right;
 	background-color: white;
-	margin-top: -391px;
-	margin-right: -230px;
+	margin-top: -412px;
+	margin-right: -256px;
 	padding: 1px;
 	padding-top: 1px; 
 	padding-right:8px;
 	padding-left:8px;
 	padding-bottom:1px;
+	border-style: groove;
+	border-color: #f7f0e3;
 }
 h5{
 	color: #68d6b3;
@@ -132,4 +139,8 @@ h5{
 }
 #github {
 	margin-top: -19px;
+}
+h4 {
+	margin-bottom: 26px;
+	margin-top: 2px;
 }

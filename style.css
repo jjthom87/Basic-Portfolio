@@ -14,13 +14,13 @@
 	background-repeat: no-repeat;
 	padding-top: 0px;
 	padding-left: 78px;
-	padding-right: 156px;
+	padding-right: 135px;
 	padding-bottom: 0px;
 	height: 474px;
 	width: 836px;
 	display: inline-block;
 	margin-top: 111px;
-	margin-right: -205px;
+	margin-right: -188px;
 	margin-left: 147px;
 	border-top-style: solid;
 	border-color: #f7f0e3;
@@ -108,8 +108,8 @@ footer {
 	margin-left: 147px;
 	background-color: #666;
 	position: absolute;
-	padding-left: 469px;
-	padding-right: 469px;
+	padding-left: 459px;
+	padding-right: 459px;
 	padding-top: 28px;
 	padding-bottom: 10px;
 	border-top-style: solid;
@@ -123,11 +123,11 @@ footer {
 	float: right;
 	background-color: white;
 	margin-top: -405px;
-	margin-right: -236px;
+	margin-right: -251px;
 	padding: 1px;
 	padding-top: 1px; 
-	padding-right:14px;
-	padding-left:17px;
+	padding-right:23px;
+	padding-left:23px;
 	padding-bottom:5px;
 }
 h5{

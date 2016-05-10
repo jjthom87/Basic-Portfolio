@@ -115,7 +115,7 @@ footer {
 	padding-left: 459px;
 	padding-right: 459px;
 	padding-top: 28px;
-	padding-bottom: 10px;
+	padding-bottom: 5px;
 	border-top-style: solid;
 	border-top-width: 5px;
 	border-top-color: #68d6b3;
@@ -163,7 +163,115 @@ h5{
 	padding-right: 1px;
 	padding-left: 1px;
 }
+.two2 {
+	background-image: url("asanoha-400px.png");
+	background-size: 1070px 539px;
+	background-repeat: no-repeat;
+	padding-top: 0px;
+	padding-left: 78px;
+	padding-right: 135px;
+	padding-bottom: 148px;
+	height: 474px;
+	width: 836px;
+	display: inline-block;
+	margin-top: 111px;
+	margin-right: -188px;
+	margin-left: 147px;
+	border-top-style: solid;
+	border-color: #f7f0e3;
+}
+.three2 {
+	background-color: white;
+	margin-top: 32px;
+	margin-bottom: 52px;
+	margin-left: 41px;
+	margin-right: 282px;
+	padding: 10px;
+	padding-top: 9px;
+	padding-right: 30px;
+	padding-left: 0px;
+	padding-bottom: 24px;
+}
 h4 {
 	margin-bottom: 26px;
 	margin-top: 2px;
+}
+.contactword {
+	margin-bottom: -10px;
+	margin-top: -2px;
+	margin-left: 20px;
+	border-bottom-style: groove;
+	border-bottom-color: #DDD;
+	color: #68d6b3;
+	line-height: 2.0;
+}
+h3 {
+	color: #777777;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.email {
+	color: #777777;
+	margin-left: 20px;
+	margin-top: 20px;
+	font-size: 20px;
+}
+.message {
+	color: #777777;
+	margin-left: 20px;
+	font-size: 20px;
+	margin-top: 10px;
+}
+textarea {
+	width: 452px;
+	margin-left: 20px;
+	margin-top: -19px;
+}
+.messagebox {
+	width: 452px;
+	height: 161px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	margin-top: -41px;
+}
+.connect2 {
+	float: right;
+	background-color: white;
+	margin-top: -529px;
+	margin-right: -276px;
+	padding: 1px;
+	padding-top: 1px; 
+	padding-right:23px;
+	padding-left:23px;
+	padding-bottom:5px;
+}
+.footer2 {
+	text-align: center;
+	margin-left: 147px;
+	background-color: #666;
+	position: absolute;
+	padding-left: 446px;
+	padding-right: 446px;
+	padding-top: 35px;
+	padding-bottom: 11px;
+	border-top-style: solid;
+	border-top-width: 5px;
+	border-top-color: #68d6b3;
+	margin-top: -85px;
+	color: #cfcfcf;
+	font-size: 12px;
+}
+#submit {
+    color: white;
+    background-color: #68d6b3;
+    text-align: center;
+    margin-left: 20px;
+    padding: 4px;
+    margin-top: 34px;
+    margin-bottom: -1px;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
 }

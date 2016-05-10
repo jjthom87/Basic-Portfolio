@@ -1,5 +1,6 @@
 .container {
 	display: inline-block;
+	background-image: url("asanoha-400px.png");
 }
 .name{
 	text-align: top;
@@ -8,9 +9,6 @@
 	margin-left: 10px;
 }
 .two {
-	background-image: url("asanoha-400px.png");
-	background-size: 1070px 437px;
-	background-repeat: no-repeat;
 	padding-top: 0px;
 	padding-left: 78px;
 	padding-right: 135px;

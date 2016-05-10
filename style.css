@@ -129,7 +129,7 @@ footer {
 	margin-top: -405px;
 	margin-right: -276px;
 	padding: 1px;
-	padding-top: 1px; 
+	padding-top: 5px; 
 	padding-right:23px;
 	padding-left:23px;
 	padding-bottom:5px;
@@ -138,28 +138,29 @@ h5{
 	color: #68d6b3;
 	border-bottom-style: groove;
 	border-color: #DDD;
-	font-size: 18px;
+	font-size: 20px;
 	margin-top: 8px;
 	margin-bottom: 23px;
 	line-height: 1.8;
 	text-align: center;
 	margin-left: 1px;
+	padding-bottom: 5px;
 }
 #github, #linked, #stack{
 	float: left;
 }
 #linked {
 	margin-top: -19px;
-	padding-right: 7px;
+	padding-right: 5px;
 	padding-left: 1px;
 }
 #github {
 	margin-top: -19px;
-	padding-right: 7px;
-	padding-left: 1px;
+	padding-right: 3px;
+	padding-left: 0px;
 }
 #stack {
-	margin-top: -19px;
+	margin-top: -16px;
 	padding-right: 1px;
 	padding-left: 1px;
 }
@@ -214,6 +215,7 @@ h3 {
 	color: #777777;
 	margin-left: 20px;
 	margin-top: 20px;
+	margin-bottom: 19px;
 	font-size: 20px;
 }
 .message {
@@ -237,10 +239,10 @@ textarea {
 .connect2 {
 	float: right;
 	background-color: white;
-	margin-top: -529px;
+	margin-top: -522px;
 	margin-right: -276px;
 	padding: 1px;
-	padding-top: 1px; 
+	padding-top: 5px; 
 	padding-right:23px;
 	padding-left:23px;
 	padding-bottom:5px;
@@ -273,5 +275,156 @@ textarea {
     padding-right: 17px;
     padding-top: 5px;
     padding-bottom: 5px;
-
 }
+.two3 {
+	background-image: url("asanoha-400px.png");
+	background-size: 1070px 580px;
+	background-repeat: no-repeat;
+	padding-top: 0px;
+	padding-left: 78px;
+	padding-right: 135px;
+	padding-bottom: 188px;
+	height: 474px;
+	width: 836px;
+	display: inline-block;
+	margin-top: 111px;
+	margin-right: -188px;
+	margin-left: 147px;
+	border-top-style: solid;
+	border-color: #f7f0e3;
+}
+.three3 {
+	background-color: white;
+	margin-top: 20px;
+	margin-bottom: 168px;
+	margin-left: 41px;
+	margin-right: 282px;
+	padding: 10px;
+	padding-top: 0px;
+	padding-right: 30px;
+	padding-left: 0px;
+	padding-bottom: 1px;
+}
+.portfolioword {
+	margin-bottom: -7px;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-left: 20px;
+	border-bottom-style: groove;
+	border-bottom-color: #DDD;
+	color: #68d6b3;
+	line-height: 2.0;
+	position: relative;
+}
+.connect3 {
+	float: right;
+	background-color: white;
+	margin-top: -705px;
+	margin-right: -276px;
+	padding: 1px;
+	padding-top: 5px; 
+	padding-right:23px;
+	padding-left:23px;
+	padding-bottom:5px;
+}
+.footer3 {
+	text-align: center;
+	margin-left: 147px;
+	background-color: #666;
+	position: absolute;
+	padding-left: 446px;
+	padding-right: 446px;
+	padding-top: 35px;
+	padding-bottom: 11px;
+	border-top-style: solid;
+	border-top-width: 5px;
+	border-top-color: #68d6b3;
+	margin-top: -85px;
+	color: #cfcfcf;
+	font-size: 12px;
+}
+#hangman {
+	margin-left: 20px;
+}
+#hangmantag {
+    color: white;
+    background-color: #68d6b3;
+    position: absolute;
+    margin-left: -160px;
+    padding: 4px;
+    margin-top: 89px;
+    margin-bottom: -29px;
+    padding-left: 49px;
+    padding-right: 49px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#trivia {
+	margin-left: 20px;
+}
+#triviatag {
+    color: white;
+    background-color: #68d6b3;
+    position: absolute;
+    margin-left: -160px;
+    padding: 4px;
+    margin-top: 89px;
+    margin-bottom: -29px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+#rpc {
+	margin-left: 20px;
+}
+#rpctag {
+    color: white;
+    background-color: #68d6b3;
+    position: absolute;
+    margin-left: -160px;
+    padding: 4px;
+    margin-top: 89px;
+    margin-bottom: -29px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+#rpg {
+	margin-left: 231px;
+	margin-bottom: 277px;
+	margin-top: -438px;
+}
+#rpgtag {
+    color: white;
+    background-color: #68d6b3;
+    position: absolute;
+    margin-left: -160px;
+    padding: 4px;
+    margin-top: 89px;
+    margin-bottom: -61px;
+    padding-left: 46px;
+    padding-right: 45px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+ #widget{
+	margin-left: 231px;
+	margin-bottom: 185px;
+	margin-top: -253px;
+}
+#widgettag {
+    color: white;
+    background-color: #68d6b3;
+    position: absolute;
+    margin-left: -160px;
+    padding: 4px;
+    margin-top: 89px;
+    margin-bottom: -61px;
+    padding-left: 57px;
+    padding-right: 57px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }

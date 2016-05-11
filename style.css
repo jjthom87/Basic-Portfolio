@@ -1,6 +1,10 @@
+html, body {
+	margin:0px;
+	padding:0px;
+}
 .container {
-	display: inline-block;
 	background-image: url("asanoha-400px.png");
+	margin-top: 100px;
 }
 .name{
 	text-align: top;
@@ -106,20 +110,20 @@ img {
 	margin-top: 10px;
 }
 footer {
-	text-align: center;
+ 	text-align: center;
 	margin-left: 147px;
 	background-color: #666;
 	position: absolute;
-	padding-left: 459px;
-	padding-right: 459px;
-	padding-top: 28px;
-	padding-bottom: 5px;
+	padding-left: 446px;
+	padding-right: 446px;
+	padding-top: 35px;
+	padding-bottom: 11px;
 	border-top-style: solid;
 	border-top-width: 5px;
 	border-top-color: #68d6b3;
-	margin-top: -84px;
+	margin-top: -85px;
 	color: #cfcfcf;
-	font-size: 10px;
+	font-size: 12px;
 }
 .connect {
 	float: right;
@@ -163,9 +167,6 @@ h5{
 	padding-left: 1px;
 }
 .two2 {
-	background-image: url("asanoha-400px.png");
-	background-size: 1070px 539px;
-	background-repeat: no-repeat;
 	padding-top: 0px;
 	padding-left: 78px;
 	padding-right: 135px;
@@ -275,9 +276,6 @@ textarea {
     padding-bottom: 5px;
 }
 .two3 {
-	background-image: url("asanoha-400px.png");
-	background-size: 1070px 580px;
-	background-repeat: no-repeat;
 	padding-top: 0px;
 	padding-left: 78px;
 	padding-right: 135px;

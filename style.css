@@ -3,8 +3,13 @@ html, body {
 	padding:0px;
 }
 .container {
-	background-image: url("asanoha-400px.png");
+	background-image: url("green_cup.png");
 	margin-top: 100px;
+	padding: 0px;
+	padding-bottom: 775px;
+	border-top-style: groove;
+	border-top-width: 3px;
+	border-top-color: #DDD;
 }
 .name{
 	text-align: top;
@@ -13,67 +18,53 @@ html, body {
 	margin-left: 10px;
 }
 .two {
-	padding-top: 0px;
-	padding-left: 78px;
-	padding-right: 135px;
-	padding-bottom: 0px;
-	height: 474px;
-	width: 836px;
-	display: inline-block;
+	float: left;
 	margin-top: 111px;
-	margin-right: -188px;
-	margin-left: 147px;
+	margin-left: 73px;
 	border-top-style: solid;
 	border-color: #f7f0e3;
 }
 .three {
 	background-color: white;
-	margin-top: 21px;
-	margin-bottom: 52px;
-	margin-left: 41px;
-	margin-right: 282px;
-	padding: 10px;
-	padding-top: 9px;
-	padding-right: 30px;
-	padding-left: 0px;
-	padding-bottom: 1px;
+	margin-top: -15px;
+	margin-bottom: -252px;
+	padding: 178px;
+	margin-left: 184px;
+	padding-left: 184px;
+	padding-right: 38px;
 }
 .header {
     color: white;
     background-color: #68d6b3;
     text-align: center;
     position: absolute;
-    margin-left: 265px;
-    padding: 20px;
-    margin-top: 34px;
+    margin-left: 256px;
+    padding: 34px;
+    margin-top: -102px;
+    font-size: 31px;
 }
 .picture {
-	margin-left: 20px;
+	margin-left: -147px;
+	margin-top: 9px;
 	float: left;
-	height: 156px;
-	width: 203px;
-	margin-bottom: 10px;
-	margin-top: 10px;
-	margin-right: 9px;
+	padding-right: 17px
 }
 .description {
-	margin-right: -26px;
-	margin-left: -10px;
-	margin-top: 35px;
-	width: 516px;
-	height: 50px;
-	font-size: 16px;
-	margin-bottom: 209px;
+	margin-right: 0px;
+	margin-left: -148px;
+	width: 600px;
+	height: 20px;
+	font-size: 19px;
+	margin-bottom: 172px;
 	color: #777777;
 	letter-spacing: 2px;
-	padding: 1px;
-	padding-left: 1px;
+	text-align: justify;
 }
 .links {
 	float: right;
-	margin-left: -191px;
-	margin-top: 21px;
-	margin-right: 1px;
+	margin-left: -196px;
+	margin-top: -98px;
+	margin-right: 668px;
 }
 #about, #portfolio, #contact {
 	float: left;
@@ -84,24 +75,29 @@ html, body {
 	margin-right: 15px;
     border-right: 1px solid #DDD;
     padding-right: 15px;
+    font-size: 21px;
 }
 #portfolio {
 	margin-top: 40px;
 	margin-right: 15px;
     border-right: 1px solid #DDD;
     padding-right: 15px;
+    font-size: 21px;
 }
 #contact {
 	margin-top: 40px;
+	font-size: 21px;
 }
 .aboot {
-	margin-bottom: -10px;
-	margin-top: -2px;
-	margin-left: 20px;
+	margin-top: -174px;
+	margin-left: -147px;
 	border-bottom-style: groove;
 	border-bottom-color: #DDD;
+	border-bottom-width: 2px;
 	color: #68d6b3;
 	line-height: 2.0;
+	font-size: 30px;
+	margin-right: -4px;
 }
 a {
 	text-decoration: none;
@@ -111,36 +107,37 @@ img {
 }
 footer {
  	text-align: center;
-	margin-left: 147px;
+	margin-left: 2px;
 	background-color: #666;
 	position: absolute;
-	padding-left: 446px;
-	padding-right: 446px;
-	padding-top: 35px;
-	padding-bottom: 11px;
+	padding-left: 850px;
+	padding-right: 849px;
+	padding-top: 37px;
+	padding-bottom: 21px;
 	border-top-style: solid;
 	border-top-width: 5px;
 	border-top-color: #68d6b3;
-	margin-top: -85px;
+	margin-top: 759px;
 	color: #cfcfcf;
-	font-size: 12px;
+	
 }
 .connect {
 	float: right;
 	background-color: white;
-	margin-top: -405px;
-	margin-right: -276px;
-	padding: 1px;
-	padding-top: 5px; 
-	padding-right:23px;
-	padding-left:23px;
-	padding-bottom:5px;
+	margin-top: -382px;
+	margin-right: -336px;
+	padding: 29px;
+	padding-top: 0px; 
+	padding-right:14px;
+	padding-left:14px;
+	padding-bottom:16px;
 }
 h5{
 	color: #68d6b3;
 	border-bottom-style: groove;
 	border-color: #DDD;
-	font-size: 20px;
+	border-bottom-width: 2px;
+	font-size: 24px;
 	margin-top: 8px;
 	margin-bottom: 23px;
 	line-height: 1.8;
@@ -193,8 +190,10 @@ h5{
 	padding-bottom: 24px;
 }
 h4 {
-	margin-bottom: 26px;
-	margin-top: 2px;
+	margin-bottom: 18px;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 18px;
 }
 .contactword {
 	margin-bottom: -10px;
@@ -247,18 +246,18 @@ textarea {
 	padding-bottom:5px;
 }
 .footer2 {
-	text-align: center;
-	margin-left: 147px;
+ 	text-align: center;
+	margin-left: -68px;
 	background-color: #666;
 	position: absolute;
-	padding-left: 446px;
-	padding-right: 446px;
-	padding-top: 35px;
-	padding-bottom: 11px;
+	padding-left: 889px;
+	padding-right: 887px;
+	padding-top: 37px;
+	padding-bottom: 21px;
 	border-top-style: solid;
 	border-top-width: 5px;
 	border-top-color: #68d6b3;
-	margin-top: -85px;
+	margin-top: 210px;
 	color: #cfcfcf;
 	font-size: 12px;
 }
@@ -325,18 +324,18 @@ textarea {
 	padding-bottom:5px;
 }
 .footer3 {
-	text-align: center;
-	margin-left: 147px;
+ 	text-align: center;
+	margin-left: -68px;
 	background-color: #666;
 	position: absolute;
-	padding-left: 446px;
-	padding-right: 446px;
-	padding-top: 35px;
-	padding-bottom: 11px;
+	padding-left: 889px;
+	padding-right: 887px;
+	padding-top: 37px;
+	padding-bottom: 21px;
 	border-top-style: solid;
 	border-top-width: 5px;
 	border-top-color: #68d6b3;
-	margin-top: -85px;
+	margin-top: 210px;
 	color: #cfcfcf;
 	font-size: 12px;
 }
